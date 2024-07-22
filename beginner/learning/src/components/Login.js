@@ -8,7 +8,6 @@ function Login() {
     function handleUserChange(event) {
         var value = event.target.value;
         setUsername(value)
-
     }
 
     function handlePasswordChange(event) {
